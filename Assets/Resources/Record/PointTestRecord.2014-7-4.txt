@@ -1,0 +1,26 @@
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 311
+ShoulderCenter-ShoulderRight:315
+ShoulderLeft-ElbowLeft:      417
+ElbowLeft-WristLeft:         513
+ShoulderRight-ElbowRight:    419
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    518
+HipCenter-KneeLeft:          407
+KneeLeft-AnkleLeft:          407
+HipCenter-KneeRight:         409
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      518
+ElbowLeft-WristLeft:         513
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------

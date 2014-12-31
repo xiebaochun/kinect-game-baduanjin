@@ -1,0 +1,1105 @@
+Head-ShoulderCenter:         419
+ShoulderCenter-ShoulderLeft: 311
+ShoulderCenter-ShoulderRight:309
+ShoulderLeft-ElbowLeft:      518
+ElbowLeft-WristLeft:         518
+ShoulderRight-ElbowRight:    518
+ElbowRight-WristRight:       518
+ShoulderCenter-HipCenter:    418
+HipCenter-KneeLeft:          512
+KneeLeft-AnkleLeft:          512
+HipCenter-KneeRight:         414
+KneeRight-AnkleRight:        414
+-------------------------
+Head-ShoulderCenter:         419
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      518
+ElbowLeft-WristLeft:         513
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         514
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         219
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:410
+ShoulderLeft-ElbowLeft:      411
+ElbowLeft-WristLeft:         411
+ShoulderRight-ElbowRight:    302
+ElbowRight-WristRight:       218
+ShoulderCenter-HipCenter:    317
+HipCenter-KneeLeft:          512
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         512
+KneeRight-AnkleRight:        512
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         209
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         419
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      514
+ElbowLeft-WristLeft:         514
+ShoulderRight-ElbowRight:    219
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    418
+HipCenter-KneeLeft:          507
+KneeLeft-AnkleLeft:          408
+HipCenter-KneeRight:         518
+KneeRight-AnkleRight:        518
+-------------------------
+Head-ShoulderCenter:         419
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      514
+ElbowLeft-WristLeft:         315
+ShoulderRight-ElbowRight:    419
+ElbowRight-WristRight:       514
+ShoulderCenter-HipCenter:    418
+HipCenter-KneeLeft:          512
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         518
+KneeRight-AnkleRight:        518
+-------------------------
+Head-ShoulderCenter:         419
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      514
+ElbowLeft-WristLeft:         514
+ShoulderRight-ElbowRight:    419
+ElbowRight-WristRight:       514
+ShoulderCenter-HipCenter:    418
+HipCenter-KneeLeft:          512
+KneeLeft-AnkleLeft:          408
+HipCenter-KneeRight:         518
+KneeRight-AnkleRight:        518
+-------------------------
+Head-ShoulderCenter:         419
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      514
+ElbowLeft-WristLeft:         514
+ShoulderRight-ElbowRight:    419
+ElbowRight-WristRight:       514
+ShoulderCenter-HipCenter:    418
+HipCenter-KneeLeft:          507
+KneeLeft-AnkleLeft:          408
+HipCenter-KneeRight:         518
+KneeRight-AnkleRight:        518
+-------------------------
+Head-ShoulderCenter:         518
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         513
+ShoulderRight-ElbowRight:    419
+ElbowRight-WristRight:       514
+ShoulderCenter-HipCenter:    418
+HipCenter-KneeLeft:          512
+KneeLeft-AnkleLeft:          408
+HipCenter-KneeRight:         518
+KneeRight-AnkleRight:        518
+-------------------------
+Head-ShoulderCenter:         419
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      518
+ElbowLeft-WristLeft:         514
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       212
+ShoulderCenter-HipCenter:    418
+HipCenter-KneeLeft:          512
+KneeLeft-AnkleLeft:          512
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         518
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         513
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          217
+KneeLeft-AnkleLeft:          315
+HipCenter-KneeRight:         412
+KneeRight-AnkleRight:        411
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      512
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    514
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         414
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       512
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         518
+ShoulderCenter-ShoulderLeft: 316
+ShoulderCenter-ShoulderRight:315
+ShoulderLeft-ElbowLeft:      518
+ElbowLeft-WristLeft:         519
+ShoulderRight-ElbowRight:    514
+ElbowRight-WristRight:       418
+ShoulderCenter-HipCenter:    418
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         514
+KneeRight-AnkleRight:        514
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         513
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         113
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         113
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         113
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         113
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         113
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         114
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         518
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:315
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         514
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       411
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         315
+ShoulderRight-ElbowRight:    408
+ElbowRight-WristRight:       306
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         315
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       412
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         409
+KneeRight-AnkleRight:        514
+-------------------------
+Head-ShoulderCenter:         419
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      419
+ElbowLeft-WristLeft:         415
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       117
+ShoulderCenter-HipCenter:    423
+HipCenter-KneeLeft:          407
+KneeLeft-AnkleLeft:          408
+HipCenter-KneeRight:         518
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         309
+ShoulderRight-ElbowRight:    514
+ElbowRight-WristRight:       306
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    514
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        514
+-------------------------
+Head-ShoulderCenter:         319
+ShoulderCenter-ShoulderLeft: 311
+ShoulderCenter-ShoulderRight:419
+ShoulderLeft-ElbowLeft:      423
+ElbowLeft-WristLeft:         513
+ShoulderRight-ElbowRight:    415
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    518
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          509
+HipCenter-KneeRight:         419
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         408
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          514
+KneeLeft-AnkleLeft:          409
+HipCenter-KneeRight:         419
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         419
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          514
+KneeLeft-AnkleLeft:          409
+HipCenter-KneeRight:         419
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         408
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       412
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          514
+KneeLeft-AnkleLeft:          409
+HipCenter-KneeRight:         419
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         512
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         408
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       306
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          509
+KneeLeft-AnkleLeft:          409
+HipCenter-KneeRight:         419
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         408
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          514
+KneeLeft-AnkleLeft:          409
+HipCenter-KneeRight:         419
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 417
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      303
+ElbowLeft-WristLeft:         109
+ShoulderRight-ElbowRight:    403
+ElbowRight-WristRight:       316
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          414
+KneeLeft-AnkleLeft:          409
+HipCenter-KneeRight:         320
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         513
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       408
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         514
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       507
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      306
+ElbowLeft-WristLeft:         214
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         518
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      306
+ElbowLeft-WristLeft:         215
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         417
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         512
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      518
+ElbowLeft-WristLeft:         513
+ShoulderRight-ElbowRight:    514
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      206
+ElbowLeft-WristLeft:         214
+ShoulderRight-ElbowRight:    514
+ElbowRight-WristRight:       406
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         512
+ShoulderCenter-ShoulderLeft: 211
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      212
+ElbowLeft-WristLeft:         420
+ShoulderRight-ElbowRight:    409
+ElbowRight-WristRight:       113
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          512
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         309
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         514
+KneeRight-AnkleRight:        507
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         309
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       108
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        403
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         309
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       306
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        402
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         309
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       306
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         309
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       406
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        402
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         309
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       307
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         309
+ShoulderRight-ElbowRight:    408
+ElbowRight-WristRight:       306
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         309
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       306
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         514
+KneeRight-AnkleRight:        407
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:409
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         309
+ShoulderRight-ElbowRight:    508
+ElbowRight-WristRight:       306
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          508
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         514
+KneeRight-AnkleRight:        402
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      311
+ElbowLeft-WristLeft:         311
+ShoulderRight-ElbowRight:    315
+ElbowRight-WristRight:       315
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         518
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         408
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         514
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         513
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 412
+ShoulderCenter-ShoulderRight:414
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         509
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       508
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       408
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       408
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       408
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       408
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      508
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    513
+ElbowRight-WristRight:       408
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      513
+ElbowLeft-WristLeft:         508
+ShoulderRight-ElbowRight:    514
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        513
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       512
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       412
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       412
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       412
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       412
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       412
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       412
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       412
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         513
+ShoulderCenter-ShoulderLeft: 411
+ShoulderCenter-ShoulderRight:415
+ShoulderLeft-ElbowLeft:      412
+ElbowLeft-WristLeft:         409
+ShoulderRight-ElbowRight:    414
+ElbowRight-WristRight:       407
+ShoulderCenter-HipCenter:    513
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          508
+HipCenter-KneeRight:         508
+KneeRight-AnkleRight:        508
+-------------------------
+Head-ShoulderCenter:         418
+ShoulderCenter-ShoulderLeft: 407
+ShoulderCenter-ShoulderRight:320
+ShoulderLeft-ElbowLeft:      408
+ElbowLeft-WristLeft:         408
+ShoulderRight-ElbowRight:    419
+ElbowRight-WristRight:       513
+ShoulderCenter-HipCenter:    518
+HipCenter-KneeLeft:          513
+KneeLeft-AnkleLeft:          513
+HipCenter-KneeRight:         513
+KneeRight-AnkleRight:        513
+-------------------------

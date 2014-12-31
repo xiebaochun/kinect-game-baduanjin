@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\myScript.cs">
+    <Files>
+      <File FileName="Assets\Script\myScript.cs" Line="1746" Column="4" />
+      <File FileName="Assets\Kinect\SkeletonWrapper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kinect\KinectModelControllerV2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kinect\KinectModelControllerV3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kinect\KinectInterop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kinect\KinectSensor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\videoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kinect\DeviceOrEmulator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kinect\KinectPointController.cs" Line="1" Column="1" />
+      <File FileName="D:\unity3d\project_4\Assets\mainScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Script\myScript.cs" line="1721" offsetX="468" offsetY="29172" expression="root [&quot;isMouse&quot;].InnerText" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
